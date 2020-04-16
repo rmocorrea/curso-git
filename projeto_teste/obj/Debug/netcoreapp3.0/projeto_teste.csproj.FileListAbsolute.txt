@@ -1,0 +1,11 @@
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\bin\Debug\netcoreapp3.0\projeto_teste.exe
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\bin\Debug\netcoreapp3.0\projeto_teste.deps.json
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\bin\Debug\netcoreapp3.0\projeto_teste.runtimeconfig.json
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\bin\Debug\netcoreapp3.0\projeto_teste.runtimeconfig.dev.json
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\bin\Debug\netcoreapp3.0\projeto_teste.dll
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\bin\Debug\netcoreapp3.0\projeto_teste.pdb
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\obj\Debug\netcoreapp3.0\projeto_teste.AssemblyInfoInputs.cache
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\obj\Debug\netcoreapp3.0\projeto_teste.AssemblyInfo.cs
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\obj\Debug\netcoreapp3.0\projeto_teste.dll
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\obj\Debug\netcoreapp3.0\projeto_teste.pdb
+C:\Users\silva\Documents\Course\projeto_teste\projeto_teste\obj\Debug\netcoreapp3.0\projeto_teste.csprojAssemblyReference.cache
